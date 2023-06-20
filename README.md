@@ -6,6 +6,7 @@ Start coding a react application
 
 ## How to start coding?
 
+- Enter in the folder of landing-page: `$ cd ./landing-page/`.
 - Install the packages with `$ npm install`.
 - Run the webpack server with `$ npm run start`
 
