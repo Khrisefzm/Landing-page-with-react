@@ -1,7 +1,7 @@
 import React from 'react';
 const NavBar =() => {
     return(
-        <nav className="navbar navbar-expand-lg bg-dark">
+        <nav className="navbar navbar-expand-lg">
           <div className="container col-lg-8">
             <a className="navbar-brand text-white" href="#">Start Bootstramp</a>
             <button className="navbar-toggler white" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
